@@ -24,19 +24,21 @@ Below are the steps of how we deal with the projects:
 ---
 ## Files:
 Download the zip file with the name Drowsiness_Detection and extract the file in your system.
+
 The contents of the zip file are as below:
 **Haar cascade files** folder consists of xml files that are needed to detect objects from the image.
+
 **Model** folder contains our model file **cnnCat2.h5** which was trained on CNN.
 
 ---
 ## Steps to perform:
 
-**Step-1:  ** Take image as input from the webcam.
+**Step-1:** Take image as input from the webcam.
 
-**Step-2:  ** Detect Face in the image frame and create Region of Interest(ROI)
+**Step-2:** Detect Face in the image frame and create Region of Interest(ROI)
 
-**Step-3:  ** Detect Eyes from ROI and feed it to classifier
+**Step-3:** Detect Eyes from ROI and feed it to classifier
 
-**Step-4:  ** Classifier will classify whether eyes are Open or Closed.
+**Step-4:** Classifier will classify whether eyes are Open or Closed.
 
-**Step-5:  ** Calculate score to check whether person is feeling Drowsy or Not.
+**Step-5:** Calculate score to check whether person is feeling Drowsy or Not.
