@@ -30,8 +30,13 @@ The contents of the zip file are as below:
 
 ---
 ## Steps to perform:
+
 **Step-1:  ** Take image as input from the webcam.
+
 **Step-2:  ** Detect Face in the image frame and create Region of Interest(ROI)
+
 **Step-3:  ** Detect Eyes from ROI and feed it to classifier
+
 **Step-4:  ** Classifier will classify whether eyes are Open or Closed.
+
 **Step-5:  ** Calculate score to check whether person is feeling Drowsy or Not.
