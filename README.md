@@ -14,8 +14,11 @@ Below are the steps of how we deal with the projects:
 ---
 ## Pre-requisites:-
 **OpenCV:** For Face and Eye detection
+
 **Tensorflow:** Keras using Tensorflow as backend
+
 **Keras:** To build our classification model
+
 **Pygame:** To play alarm sound
 
 ---
