@@ -24,7 +24,6 @@ Below are the steps of how we deal with the projects:
 ---
 ## Files:
 Download the zip file with the name Drowsiness_Detection and extract the file in your system.
-
 The contents of the zip file are as below:
 
 **Haar cascade files** folder consists of xml files that are needed to detect objects from the image.
