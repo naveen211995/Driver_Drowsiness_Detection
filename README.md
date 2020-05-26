@@ -42,3 +42,7 @@ The contents of the zip file are as below:
 **Step-4:** Classifier will classify whether eyes are Open or Closed.
 
 **Step-5:** Calculate score to check whether person is feeling Drowsy or Not.
+
+---
+## Note:
+**I would like to dedicate this work to DataFlair team who helped me learn this simple way of executing a model to detect Driver Drowsiness**
